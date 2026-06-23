@@ -4,10 +4,10 @@ data/
 *.tar.gz
 
 # Checkpoints / outputs
+pretrained_checkpoints/
 checkpoints/
 runs/
 wandb/
-*.pth
 *.pt
 *.ckpt
 
